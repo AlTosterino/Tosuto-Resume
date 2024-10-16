@@ -1,0 +1,451 @@
+{
+  "basics": {
+    "name": "Daniel Różycki",
+    "headline": "",
+    "email": "d.rozycki98@gmail.com",
+    "phone": "731155895",
+    "location": "Łódź, Poland (Remote)",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p><strong>Python Developer | Software Architecture Enthusiast</strong></p><p>Skilled Python Developer with 5+ years of experience in designing and implementing scalable, maintainable systems. Proficient in web frameworks and RESTful API development, specializing in creating efficient architecture solutions. Currently leading the development of an AI Governance platform using Django Ninja on Google Cloud, driving performance improvements, enforcing best coding practices, and making key architectural decisions for system robustness.</p><p>A collaborative team player, I thrive in dynamic environments and am dedicated to continuous learning and innovation. My work includes modernizing legacy systems, building subscription-based e-commerce platforms, and leading projects utilizing technologies like FastAPI, AWS, and Terraform. Additionally, I engage with the tech community as a speaker, sharing insights on the best software development practices.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "xya20q5mjynuqpyws2iark4i",
+          "visible": true,
+          "name": "GitLab Certified Associate",
+          "issuer": "GitLab",
+          "date": "April 2021",
+          "summary": "",
+          "url": {
+            "label": "Certification",
+            "href": "https://badgr.com/public/assertions/XGJ4U261TLuaXhY6IIGnCw"
+          }
+        },
+        {
+          "id": "o0d7ces5he06w9t90ejlmkvh",
+          "visible": true,
+          "name": "Zero BS Scrum",
+          "issuer": "Zero Bullshit Management",
+          "date": "April 2019",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "iihpngi1csubmsnvc73sgfyy",
+          "visible": true,
+          "name": "CCNA Routing and Switching: Introduction to Networks",
+          "issuer": "Cisco",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "q2vluny1kp7ofmk89yf2qxd9",
+          "visible": true,
+          "name": "Cisco IT Essentials",
+          "issuer": "Cisco",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "faj5eaigmqhjf50bvzz0od2o",
+          "visible": true,
+          "institution": "Zespół Szkół Ponadgimnazjalnych nr 9 im. KEN",
+          "studyType": "IT Technician",
+          "area": "Information Technology",
+          "score": "",
+          "date": "September 2015 - December 2018",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://zsp9.pl/"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "brty9eg1pd8ssad8r9x9mnnu",
+          "visible": true,
+          "company": "STX Next",
+          "position": "Senior Python Developer",
+          "location": "Łódź, Poland",
+          "date": "March 2020 - present",
+          "summary": "<ul><li><p><strong>Technical Lead in AI Governance Platform Project</strong><br>Currently leading the development of a highly configurable AI Governance platform utilizing Django Ninja on Google Cloud Platform, addressing niche business needs with an emphasis on flexibility and scalability.</p></li><li><p><strong>Public Speaker</strong><br>Delivered a presentation at the Python Katowice Meetup on \"Simple is Better than Complex\" focusing on clean and maintainable coding principles.</p></li><li><p><strong>Technical Interviewer</strong><br>Conducted technical interviews to assess candidates’ coding skills and architectural knowledge.</p></li><li><p><strong>Technical Lead in Finance Project</strong><br>Contributed as a technical lead in a mid-development finance project, implementing key enhancements that improved maintainability, performance, and usability of the application using FastAPI and SQLAlchemy.</p></li><li><p><strong>E-Commerce Platform Revitalization</strong><br>Revitalized an outdated e-commerce platform (Django 1.2) by implementing a new gamification-based rewards system while adhering to best coding and architectural practices.</p></li><li><p><strong>Subscription-Based E-Commerce Project Developer</strong><br>Developed a subscription-based e-commerce solution with a focus on clean architecture, utilizing technologies such as Python/Django, FastAPI, Locust, AWS, Terraform, Sentry, Chargebee, and DataDog for a robust, scalable application.</p></li><li><p><strong>Process Automation Developer</strong><br>Automated internal processes by building efficient solutions driven by clean architecture using Python, Scrapy, and Selenium.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://stxnext.com/"
+          }
+        },
+        {
+          "id": "oo59ufnbrehr3kn3uc9adwcw",
+          "visible": true,
+          "company": "GROUP DIANET",
+          "position": "Full Stack Developer (Python/Django)",
+          "location": "Łódź, Poland",
+          "date": "April 2019 - February 2020",
+          "summary": "<ul><li><p><strong>ICO Management Platform Developer</strong><br>Developed a comprehensive platform for creating and managing multiple Initial Coin Offerings (ICOs), utilizing subdomain-based architecture with Python, Django, Celery, and Web3 technologies.</p></li><li><p><strong>Microservice Developer</strong><br>Designed and built a secure API for managing Ethereum wallets and facilitating ICO and stock exchange transactions, employing Python, Django, Web3, and Fernet encryption to ensure robust data protection.</p></li><li><p><strong>Blockchain Application Developer</strong><br>Developed and maintained web applications centered on blockchain technology, particularly focusing on Ethereum and ERC-20 token standards, using Python, Django, Celery, and Web3.</p></li><li><p><strong>Web Application Implementation and Management</strong><br>Implemented and managed scalable and reliable web applications using Python and Django, ensuring high performance and availability.</p></li><li><p><strong>System Administrator</strong><br>Administered Linux and database servers (MySQL, PostgreSQL, MariaDB) to maintain optimal performance and security.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://dianet.pl/"
+          }
+        },
+        {
+          "id": "sfrqcc5rht7qx8083hrcci1j",
+          "visible": true,
+          "company": "Politechnika Łódzka",
+          "position": "Intern (Programming in Java and C++) - 150 hours",
+          "location": "Łódź, Poland",
+          "date": "November 2017",
+          "summary": "<p>Worked with Java and C++ while learning to test machine learning applications for accuracy and troubleshoot hardware issues during my internship.</p>",
+          "url": {
+            "label": "",
+            "href": "https://p.lodz.pl/"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "uudcjzo5wrlhjvmgrsglan7w",
+          "visible": true,
+          "name": "Polish",
+          "description": "Native",
+          "level": 5
+        },
+        {
+          "id": "g42m3v4afqgze0lnxpmpf8ig",
+          "visible": true,
+          "name": "English",
+          "description": "C1",
+          "level": 4
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "spuvo79hmvftegz95y540i2m",
+          "visible": true,
+          "network": "GitHub",
+          "username": "GitHub",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/AlTosterino"
+          }
+        },
+        {
+          "id": "zkxlnwh6v5h231hqb4peig47",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "LinkedIn",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/daniel-rozycki/"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "sknd90kfy8cx4gaxda4kzett",
+          "visible": true,
+          "name": "ADR-py",
+          "description": "Tool to document architectural decisions",
+          "date": "",
+          "summary": "<p>The ADR-py project is a Python tool designed to assist software development teams in documenting their architectural decisions using Architecture Decision Records (ADRs). It provides a command-line interface for creating and managing ADR files, allowing teams to capture the context, rationale, and consequences of critical design decisions in a structured format. The tool is based on Michael Nygard's ADR template and supports Markdown documentation, enhancing clarity and accessibility for development teams. This project is particularly beneficial for promoting transparency and improving decision-making throughout the software development lifecycle.</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://github.com/AlTosterino/ADR-py"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": [
+        {
+          "id": "vpqiszpt6ois8sxx90h0bwnu",
+          "visible": true,
+          "name": "Simple is better than complex",
+          "publisher": "",
+          "date": "March 2022",
+          "summary": "<p>Speaker at two Python meetups (Katowice and Bydgoszcz)</p>",
+          "url": {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/watch?v=tQjKKGNAAAQ"
+          }
+        },
+        {
+          "id": "jaygl7d7gpku810lvgjmnol8",
+          "visible": true,
+          "name": "Flask vs FastAPI",
+          "publisher": "Just Join IT",
+          "date": "March 2021",
+          "summary": "",
+          "url": {
+            "label": "JustJoinIT Blog Post",
+            "href": "https://justjoin.it/blog/rest-api-w-pythonie-flask-czy-fastapi"
+          }
+        }
+      ]
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "yqykg8rli53295vgta0tb9zh",
+          "visible": true,
+          "name": "Python",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "b9tt325senv1s3laq5y32oqf",
+          "visible": true,
+          "name": "Web Frameworks",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Django",
+            "Django Ninja",
+            "Django Rest Framework",
+            "FastAPI",
+            "Flask"
+          ]
+        },
+        {
+          "id": "pktfc4m9lk8uis6aeskm904r",
+          "visible": true,
+          "name": "Cloud",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "AWS",
+            "DataDog",
+            "Sentry"
+          ]
+        },
+        {
+          "id": "qxv96uly521huoph2tfzwg4c",
+          "visible": true,
+          "name": "CI/CD",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Github CI",
+            "Gitlab CI",
+            "Travis CI",
+            "CircleCI"
+          ]
+        },
+        {
+          "id": "mdki1q6yao2188wm99o03sgi",
+          "visible": true,
+          "name": "Technical Leadership",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "x9mcgcm5oypnr11erezcxtcl": {
+        "name": "",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "x9mcgcm5oypnr11erezcxtcl",
+        "items": [
+          {
+            "id": "cra3220uea72fyzrvkzsxtht",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<p>I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the European Parliament's and Council of the European Union Regulation on the Protection of Natural Persons as of 27 April 2016, with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.</p>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "template": "glalie",
+    "layout": [
+      [
+        [
+          "summary",
+          "education",
+          "experience",
+          "projects",
+          "volunteer",
+          "references",
+          "custom.x9mcgcm5oypnr11erezcxtcl"
+        ],
+        [
+          "profiles",
+          "skills",
+          "interests",
+          "certifications",
+          "publications",
+          "awards",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": false,
+        "pageNumbers": false
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#ca8a04"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
